@@ -1,0 +1,24 @@
+# requirements.txt
+# Required Python packages for the Multiple Linear Regression (MLR) model implementation,
+# data analysis, and result presentation.
+
+# Core data manipulation and analysis library, essential for handling DataFrames
+pandas
+
+# Fundamental library for numerical computation and array operations
+numpy
+
+# Machine Learning library for implementing the Linear Regression model and calculating metrics (R2, MAE, RMSE)
+scikit-learn
+
+# Data visualization library for plotting the Actual vs. Predicted graph and the Ideal Path
+matplotlib
+
+# Package for creating well-formatted output tables in the terminal for result analysis
+tabulate
+
+# Engine/dependency for pandas to read and write data from .xlsx (Excel) files
+openpyxl
+
+# Optional: Framework for creating interactive web applications (if using the Streamlit code version)
+# streamlit
