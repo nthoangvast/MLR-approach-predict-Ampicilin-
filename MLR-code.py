@@ -68,7 +68,7 @@ def calculate_metrics(Y_true, Y_pred):
 #-------------------------------------------------------------------------------------------------------------#
 #DATASET CONFIGURATION
 
-TRAIN_FILE = 'ampicilin-trainning.xlsx'
+TRAIN_FILE = 'ampicilin-training.xlsx'
 TEST_FILES = {
     'L1': {'file': 'ampicilin-test-L1.xlsx', 'color': 'red', 'marker': 'D'},  # Diamond
     'L2': {'file': 'ampicilin-test-L2.xlsx', 'color': 'gold', 'marker': '*'}, # Star
